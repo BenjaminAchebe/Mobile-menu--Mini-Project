@@ -4,7 +4,7 @@ This is a mobile menu website built using HTML, CSS, and JavaScript. The website
 ### Getting Started
 To get started with the Mobile Menu Website, you will need a web browser installed on your computer. The website is compatible with most modern web browsers, including Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
 
-To launch the website, simply open the `index.html` file in your web browser.
+To launch the website, simply open the `index.html` file in your web browser or click the <a href="https://benjaminachebe.github.io/Mobile-menu--Mini-Project/" target="_blank">`link`</a>
 
 ### Website Structure
 The Mobile Menu Website is structured as follows:
